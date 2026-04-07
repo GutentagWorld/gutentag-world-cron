@@ -1,0 +1,2 @@
+# Gutentag, World! — runs every minute and appends to log
+* * * * * echo "Gutentag, World!" >> /tmp/gutentag.log
